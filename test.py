@@ -7,7 +7,7 @@ from process_util import Process
 
 
 def test():
-    """Perform test for sysnetic data
+    """Perform test for synthetic data
     """
     np.random.seed(42)
     shape = (7,3)

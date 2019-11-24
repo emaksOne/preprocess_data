@@ -1,5 +1,5 @@
 This repo contains process_utill.py to preprocess data. For example test.tsv.
-test.py provide test that checks logic on syntetic data.
+test.py provide test that checks logic on synthetic data.
 demo.ipynb show example how to use process_utill script
 
 In general process_utill script work as follows. 

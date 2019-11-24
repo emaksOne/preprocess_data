@@ -1,8 +1,7 @@
 """
 Usage: import the module, or run from
        the command line as such:
-
-    # Train a new model starting from pre-trained COCO weights
+       
     python3 process_util.py --input=/path/to/input/file --output=/path/to/output/file --chunksize=chunksize
 """
 
